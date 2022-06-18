@@ -1,0 +1,177 @@
+--------
+
+CHANGELOG
+
+--------
+
+v2.6 - 16/4/21
+
+- added Russian localisation + potential for other languages
+- removed outdated mod patches + tidied up cfg file
+- replaced start tech in options menu with popup
+
+----
+
+v2.5.6 - 11/1/22
+
+- improved MechJeb support
+
+----
+
+v2.5.5 - 15/12/21
+
+- plugin bugfix for missing autostrut
+- new game options replace starting science
+
+----
+
+v2.5.4 - 29/11/21
+
+- Update to KSP v1.12.2
+- Change to gender-neutral language (manned -> crewed)
+- Remade plugin
+
+----
+
+v2.5.3 - 15/1/21
+
+- Improved DLC support
+
+----
+
+v2.5.2 - 10/1/21
+
+- Update to better support Stock DLC
+
+----
+
+v2.5.1 - 9/1/21
+
+- Update to KSP v1.11
+
+----
+
+v2.5 - 25/1/18
+
+- Several minor adjustments to part locations and buy-in costs
+- Fixed intake progression
+- Brought SRBs forward
+- Start with external command seat instead of pod
+
+----
+
+v2.4 31/12/17
+
+- Update to KSP version 1.3.1
+- Update to Community Tech Tree version 3.2.1
+
+- Assigned several assorted new parts to more appropriate locations
+- Swapped OKTO and QBE probe cores to reflect updated stats
+- Swapped Barometer and Mystery Goo to reflect increase in science data potential
+- Shuffled air intakes and jet engines around to account for the added parts and updated stats
+- Moved thermal parts from science to ISRU line
+- Moved Rover body forward to Rover Tech I
+- Moved large ISRU drill and converter one tech behind the smaller ones
+- Shuffled around antennae to account for the added parts and updated stats
+- Moved drogue chutes forward to reflect their increased importance
+
+----
+
+v2.3 - 23/06/15
+
+- Update to KSP version 1.0.3 (assigned new thermal parts to the tree)
+
+----
+
+v2.2 - 19/06/15
+
+- Moved TVR-200L Stack Bi-Adapter to Basic Medium Rocketry
+- Moved Vernor Engine to Medium Rocketry Adapters
+- Swapped Octagonal Strut (into Structural II) and M-2x2 Structural Panel (into Structural III)
+
+- Patch to better support SCANsat v12.1
+- Patch to better support Kerbal Attachment System v0.5.2
+- Patch to better support Universal Storage v1.1.0.4
+- Patch to better support Mk2 Expansion v1.3
+- Patch to better support OPT Space Plane Parts v1.6.9.1
+- Rebalanced RemoteTech patch
+- RemoteTech only: Moved both the Comms DTS-M1 and Communotron 88-88 forward one tech to better fit the RemoteTech antenna progression
+
+----
+
+v2.1.2 - 06/06/15
+
+- Patch to better support MechJeb v2.5.1
+- Patch to better support USI Kolonization Systems (MKS/OKS) v0.30.3
+- Patch to better support USI Exploration Pack v0.4.1
+- Patch to better support TAC Life Support v0.11.1.20
+
+----
+
+v2.1.1 - 03/06/15
+
+- Bug fix for missing mod parts assigned to stock Flight Control tech
+- Patch to better support RemoteTech v1.6.5
+- Patch to better support Extraplanetary Launchpads v5.1.92
+- Patch to better support Kerbal Inventory System v1.1.5
+
+----
+
+v2.1 - 02/06/15
+
+Adjustments to a few early game technologies to make mono-propellant more useful and rovers available earlier.
+
+- Small rover wheel and command seat moved to 2nd tier, replacing the previous probe option
+- Structural panels moved forward: 1x1 is now in start tech (for rovers)
+- Mono engine and small tanks moved into 1st rocketry tech (2nd tier)
+- Added another probe propulsion tech at 3rd tier: contains spider engine and oscar-b tank
+- Minor price changes to several parts that were moved
+- Changed the name (and numbering) of any tech affected by above changes
+- Swapped layout of command modules and docking/rcs tech lines
+
+----
+
+v2.0 - 31/05/15
+
+- Added 5 starting science and re-arranged start nodes to offer choice between manned/unmanned
+- Merged engines, adapters and multicouplers with fuel tanks
+- Merged rovers with probe cores
+- Rebalanced the majority of the tree, too many changes to list
+- Changed several part buy-in prices to fit their new location in the tree
+- Added support for Community Tech Tree v2.1
+- Added support for any mod parts using the stock tree - parts will be moved to roughly equivalent nodes in OpenTree
+- Patch to better support Kerbal Aircraft Expansion v2.5.1
+
+----
+
+v1.1.2 - 25/05/15
+
+- Made misc. parts cost 1 science, because game doesn't seem to allow parts to be used if the containing tech costs 0 science
+
+----
+
+v1.1.1 - 25/05/15
+
+- Bugfix for parts that were unavailable due to conflicts with other mods
+
+----
+
+v1.1 - 24/05/15
+
+- Combined legacy and standard versions into a single version
+- Swapped 2HOT Thermometer (to Start) and Mystery Goo (to Science and Electricity)
+- Swapped RoveMax Model S2 (to Rover Tech) and RoveMax Model M1 (to Medium Powered Wheels)
+****Aviation****
+- Reorganised all wings and control surfaces for better progression
+- Swapped NCS Adapter (to Aviation I) and Mk1 Liquid Fuel Fuselage (to Aviation Fuel Systems)
+- Swapped AV-R8 Winglet (to Aviation I) and Delta-Deluxe Winglet (to Control Surfaces I)
+- Moved AV-T1 Winglet from Basic Aerodynamics to Aviation I
+- Moved Swept Wings from Aviation I to Medium Wings II
+
+----
+
+v1.0 - 22/05/15
+
+- Initial Release
+
+----
